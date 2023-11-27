@@ -36,7 +36,7 @@
 
 **<ins>Guillaume**</ins>
 
-![Beki.]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/Flyingcircus_2.jpg)
+![Beki.]( https://image.slidesharecdn.com/lecture1-231007164309-d0e8dca1/85/lecture-1pptx-6-320.jpg?cb=1696697395)
 
 ###
 
@@ -152,26 +152,26 @@
 
 ### **The Zen of Python, by </ins>Tim Peters</ins>:**:heavy_check_mark:
 
-**Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Flat is better than nested.
-Sparse is better than dense.
-Readability counts.
-Special cases aren't special enough to break the rules.
-Although practicality beats purity.
-Errors should never pass silently.
-Unless explicitly silenced.
-In the face of ambiguity, refuse the temptation to guess.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch.
-Now is better than never.
-Although never is often better than *right* now.
-If the implementation is hard to explain, it's a bad idea.
-If the implementation is easy to explain, it may be a good idea.
+**Beautiful is better than ugly.<br>
+Explicit is better than implicit.<br>
+Simple is better than complex.<br>
+Complex is better than complicated.<br>
+Flat is better than nested.<br>
+Sparse is better than dense.<br>
+Readability counts.<br>
+Special cases aren't special enough to break the rules.<br>
+Although practicality beats purity.<br>
+Errors should never pass silently.<br>
+Unless explicitly silenced.<br>
+In the face of ambiguity, refuse the temptation to guess.<br>
+There should be one-- and preferably only one --obvious way to do it.<br>
+Although that way may not be obvious at first unless you're Dutch.<br>
+Now is better than never.<br>
+Although never is often better than *right* now.<br>
+If the implementation is hard to explain, it's a bad idea.<br>
+If the implementation is easy to explain, it may be a good idea.<br>
 Namespaces are one honking great idea -- let's do more of those!**
 
-![My alx. ]( https://www.skillbill.it/uploads/bxphpjcu1xv41.png)
+![My alx.]( https://www.skillbill.it/uploads/bxphpjcu1xv41.png)
 
 ###
