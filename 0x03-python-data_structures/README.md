@@ -36,7 +36,7 @@
 ![ff]( https://github.com/VigoKrumins/folder-icons/blob/master/windows/png/youtube.png)
 ![Python_Data_Structures.]( https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/01/Python-Data-Structures.jpg)
 
-<h2> <ins>Function Prototypes:</ins>:heavy_check_mark: :@Folder:</H2>
+<h2> <ins>Function Prototypes:</ins>:heavy_check_mark: :@Folder:</H2> &#9832;
 
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :---- | :---- |
