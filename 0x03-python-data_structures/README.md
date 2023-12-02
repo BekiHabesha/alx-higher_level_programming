@@ -47,7 +47,7 @@
 | 0 | Print a list <br>of integers | [0-print_list_integer.py](./0x03-python-data_structures) | [def print_list_integer(my_list=[]):](./0-print_list_integer.py) |
 | 1 | Secure access to <br>an element in a list | [1-element_at.py](./0x03-python-data_structures) | [def element_at(my_list, idx):](./1-element_at.py) |
 | 2 | Replace element | [2-replace_in_list.py](./0x03-python-data_structures) | [def replace_in_list(my_list, idx, element):](./2-replace_in_list.py) |
-| 3 | Print a list of integers... in reverse! | [3-print_reversed_list_integer.py](./0x03-python-data_structures) | [def print_reversed_list_integer(my_list=[]):](./3-print_reversed_list_integer.py) |
+| 3 | Print a list of <br>integers... in reverse! | [3-print_reversed_list_integer.py](./0x03-python-data_structures) | [def print_reversed_list_integer(my_list=[]):](./3-print_reversed_list_integer.py) |
 | 4 | Replace in a copy | [4-new_in_list.py](./0x03-python-data_structures) | [def new_in_list(my_list, idx, element):](./4-new_in_list.py) |
 | 5 | Can you C me now? | [5-no_c.py](./0x03-python-data_structures) | [def no_c(my_string):](./5-no_c.py) |
 | 6 | Lists of lists = Matrix | [6-print_matrix_integer.py](./0x03-python-data_structures) | [def print_matrix_integer(matrix=[[]]):](./6-print_matrix_integer.py) |
