@@ -35,16 +35,50 @@
 
 ![Python_Data_Structures.]( https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/01/Python-Data-Structures.jpg)
 
-<h1> <ins>Resources</ins>:floppy_disk:</H1>
+<h2> <ins>Function Prototypes:</ins>:heavy_check_mark:</H2>
 
-### **Read or watch:**:heavy_check_mark:
+| Task NO. | Title | File | Prototype |
+| :----: | :----:| :---- | :---- |
+|   |   |   |   |
+|   |   |   |   |
+|   | MANDATORY TASKS |  |  |
+|   |   |   |   |
+|   |   |   |  |
+| 0 | Print a list of integers | [0-print_list_integer.py](./0x03-python-data_structures) | [def print_list_integer(my_list=[]):](./0-print_list_integer.py) |
+| 1 | Secure access to an element in a list | [1-element_at.py](./0x03-python-data_structures) | [def element_at(my_list, idx):](./1-element_at.py) |
+| 2 | Replace element | [2-replace_in_list.py](./0x03-python-data_structures) | [def replace_in_list(my_list, idx, element):](./2-replace_in_list.py) |
+| 3 | Print a list of integers... in reverse! | [3-print_reversed_list_integer.py](./0x03-python-data_structures) | [def print_reversed_list_integer(my_list=[]):](./3-print_reversed_list_integer.py) |
+| 4 | Replace in a copy | [4-new_in_list.py](./0x03-python-data_structures) | [def new_in_list(my_list, idx, element):](./4-new_in_list.py) |
+| 5 | Can you C me now? | [5-no_c.py](./0x03-python-data_structures) | [def no_c(my_string):](./5-no_c.py) |
+| 6 | Lists of lists = Matrix | [6-print_matrix_integer.py](./0x03-python-data_structures) | [def print_matrix_integer(matrix=[[]]):](./6-print_matrix_integer.py) |
+| 7 | Tuples addition | [7-add_tuple.py](./0x03-python-data_structures) | [def add_tuple(tuple_a=(), tuple_b=()):](./7-add_tuple.py) |
+| 8 | More returns! | [8-multiple_returns.py](./0x03-python-data_structures) | [def multiple_returns(sentence):](./8-multiple_returns.py) |
+| 9 | Find the max | [9-max_integer.py](./0x03-python-data_structures) | [def max_integer(my_list=[]):](./9-max_integer.py) |
+| 10 | Only by 2 | [10-divisible_by_2.py](./0x03-python-data_structures) | [def divisible_by_2(my_list=[]):](./10-divisible_by_2.py) |
+| 11 | Delete at | [11-delete_at.py](./0x03-python-data_structures) | [def delete_at(my_list=[], idx=0):](./11-delete_at.py) |
+| 12 | Switch | [12-switch.py](./0x03-python-data_structures) | [here](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
+| 13 | Linked list palindrome | [13-is_palindrome.c](./0x03-python-data_structures) | [int is_palindrome(listint_t **head);](./13-is_palindrome.c) |
+|   |   |   |   |
+|  |   |   |  |
+|  | ADVANCED TASKS |  |  |
+|  |   |   |  |
+|  |   |   |  |
+| 14 | CPython #0: Python lists | [100-print_python_list_info.c](./0x03-python-data_structures) | [void print_python_list_info(PyObject *p);](./100-print_python_list_info.c) |
+|   |   |   |   |
+|   |   |   |   |
+
+##
+
+![Python_Data_Structures.]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*dFTVCUWG5MM9xJ5LpnFh-g.png)
+
+<h1> <ins>Resources</ins> :floppy_disk:</H1>
+
+### **Read or watch:** :heavy_check_mark:
 * [3.1.3. Lists](https://intranet.alxswe.com/rltoken/VarQbHxfmbnpGnaGp3Nb_A)
 * [Data structures](https://intranet.alxswe.com/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)(*until <ins>5.3. Tuples and Sequences</ins> included*)
 * [Learn to Program 6 : Lists](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
   
-![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU)
-
-![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU)
+![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU) ![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU)
 
 ###
 
@@ -52,11 +86,9 @@
 
 * At the end of this project, You are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qZrNhvUqi5zcqE4cMFGU6Q), **Without the help of Google:**
 
-![Python_Data_Structures.]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*dFTVCUWG5MM9xJ5LpnFh-g.png)
-
 ###
 
-<H2> <ins>General Learning Objectives</ins>:cd::heavy_check_mark:</H2>
+<H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
 
 * **Why <ins>Python programming</ins> is awesome.**
 * **What are <ins>lists and how to use them</ins>.**
@@ -72,29 +104,29 @@
 * **What is the <ins>del</ins> statement and how to use it.**
 
 ![Python_Data_Structures.]( https://technicalmasterblog.files.wordpress.com/2019/03/screenshot-from-2019-03-12-16-03-55.png?w=768&h=373)
-![Python_Data_Structures.]( https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png)
 
 ###
-<H2> <ins>Copyright - Plagiarism</ins>:cd::heavy_check_mark:</H2>
+
+![Alx.]( https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png)
+
+###
+
+<H2> <ins>Copyright - Plagiarism</ins> :heavy_check_mark:</H2>
 
 * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 * You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 * You are not allowed to publish any content of this project.
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-![Alx.]( https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png)
+![Python_Data_Structures.]( https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png)
 
 ##
 
-<H1 align="center"> <ins>Requirements</ins>:floppy_disk:</H1>
+<H1><ins>Requirements</ins> :floppy_disk:</H1>
 
 ![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
 
-<H2><ins>Python Scripts</ins> :cd:</H2>
-
-![Python_programming_logo.]( https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg)
-
-<H2>Python Scripts:heavy_check_mark:</H2>
+<H2>Python Scripts :heavy_check_mark:</H2>
 
 * Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
 * All your files will be **interpreted/compiled** on <ins>**Ubuntu 20.04 LTS**</ins> Using <ins>**python3**</ins> (version 3.8.5)
@@ -105,13 +137,9 @@
 * All **your files** must be **executable**.
 * The length of your files will be tested using **wc**.
 
-![python_script_logo.]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*2bI-bxMZbx-v47XJlhBF8g.png)
+![Python_programming_logo.]( https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg) ![python_script_logo.]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*2bI-bxMZbx-v47XJlhBF8g.png)
 
 ##
-
-<H2><ins>C</ins> :cd:</H2>
-
-![C_programming_logo.]( https://blog.stoneriverelearning.com/wp-content/uploads/2016/08/CBlog.png)
 
 <H2>C :heavy_check_mark:</H2>
 
@@ -126,7 +154,7 @@
 * Don’t forget to <ins>**push your header file</ins>**
 * All your <ins>**header files</ins>** should be <ins>**include guarded</ins>**
 
-![C_script_logo.]( https://img.freepik.com/premium-photo/abstract-modern-tech-programming-code-screen-developer-c-programming-language-computer-script-technology-background-software_505353-434.jpg?w=996)
+![C_programming_logo.]( https://blog.stoneriverelearning.com/wp-content/uploads/2016/08/CBlog.png) ![C_script_logo.]( https://img.freepik.com/premium-photo/abstract-modern-tech-programming-code-screen-developer-c-programming-language-computer-script-technology-background-software_505353-434.jpg?w=996)
 
 ##
 
@@ -145,7 +173,7 @@
 
 <H1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</ins>:floppy_disk:</H1>
 
-<H1 align="center">MANDATORY_TASKS (From Task 0 to 13):cd:</h1>
+<H1 align="center">MANDATORY_TASKS (From Task 0 to 13) :cd:</h1>
 
 ## **No. 0. Print a list of integers** :heavy_check_mark:
 * **File:**
@@ -341,12 +369,12 @@
 
 ## **No. 13. Linked list palindrome** :heavy_check_mark:
 * **File:**
-  * [13-is_palindrome.c](./0x03-python-data_structures),  [lists.h](./0x03-python-data_structures)
+  * [13-is_palindrome.c](./0x03-python-data_structures)  ,  [lists.h](./0x03-python-data_structures)
 ###
 
 ### <ins>**Technical interview preparation:**</ins>
   * You are **not allowed to <ins>google anything</ins>.**
-  * <ins>Whiteboard first</ins>.**
+  * <ins>**Whiteboard first</ins>.**
 ###
 * Write a **function** in <ins>**C that checks if a singly linked list is a palindrome</ins>.**
   * <ins>**Prototype</ins>:** [int is_palindrome(listint_t **head);](./13-is_palindrome.c)
@@ -359,7 +387,7 @@
 
 #
 
-<h1 align="center"> ADVANCED_TASKS (Task 14):cd:</h1>
+<h1 align="center">ADVANCED_TASKS (Task 14) :cd:</h1>
 
 ## **No. 14. CPython #0: Python lists** :heavy_check_mark:
 * **File:**
@@ -368,11 +396,12 @@
 * **<ins>CPython**</ins> **is the reference implementation of the Python programming language.** Written in **<ins>C**</ins>, **<ins>CPython**</ins> is the **<ins>default**</ins> and **<ins>most widely used implementation of the language</ins>.**<br>
 
 * **Since we now know a <ins>bit of C</ins>,** we can **look at what is happening <ins>under the hood of Python</ins>.** Let’s have fun with <ins>**Python</ins>** and <ins>**C</ins>,** and **let’s look at what makes <ins>Python so easy to use</ins>.**
-  * All your files will be <ins>**interpreted/compiled on Ubuntu 14.04 LTS</ins>.**<br>
+  * All your files will be <ins>**interpreted/compiled on Ubuntu 14.04 LTS</ins>.**
 
 ![BekiHabesha.]( https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T183445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db45fb847d0cc3da930f93b91e009d4288ac4db409246d657ad142536de0d790)
 
 ###
+
 * <ins>**Create a C function**</ins> that **<ins>prints some basic info about Python lists</ins>.**
   * <ins>**Prototype</ins>:** [void print_python_list_info(PyObject *p);](./100-print_python_list_info.c)
   * <ins>**Format</ins>:** **see example**
@@ -380,8 +409,8 @@
   * <ins>**Your shared library will be compiled with this command line</ins>:** **gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,PyList -o libPyList.so -fPIC -I/usr/include/python3.4 100-print_python_list_info.c**
   * <ins>**OS</ins>:** **Ubuntu 14.04 LTS**
   * <ins>**Start by reading</ins>:** **see example**
-    * **listobject.h
-    * **object.h
+    * **listobject.h**
+    * **object.h**
     * [Common Object Structures](https://intranet.alxswe.com/rltoken/jmRTk4m1VSzjsu3QTGaC6w)
     * [List Objects](https://intranet.alxswe.com/rltoken/7V1HlQRESjCqrKrw_O_Urw)
 
