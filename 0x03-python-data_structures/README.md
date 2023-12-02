@@ -78,13 +78,15 @@
 * [Data structures](https://intranet.alxswe.com/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)(*until <ins>5.3. Tuples and Sequences</ins> included*)
 * [Learn to Program 6 : Lists](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
   
-![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU) ![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU)
+![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU) ![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU) ![Python_Data_Structures.]( https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png)
 
 ###
 
 <H1><ins>Learning Objectives</ins>:floppy_disk:</H1>
 
 * At the end of this project, You are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qZrNhvUqi5zcqE4cMFGU6Q), **Without the help of Google:**
+
+![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
 
 ###
 
@@ -107,10 +109,6 @@
 
 ###
 
-![Alx.]( https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png)
-
-###
-
 <H2> <ins>Copyright - Plagiarism</ins> :heavy_check_mark:</H2>
 
 * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
@@ -118,13 +116,11 @@
 * You are not allowed to publish any content of this project.
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-![Python_Data_Structures.]( https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png)
+![Alx.]( https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png)
 
 ##
 
 <H1><ins>Requirements</ins> :floppy_disk:</H1>
-
-![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
 
 <H2>Python Scripts :heavy_check_mark:</H2>
 
