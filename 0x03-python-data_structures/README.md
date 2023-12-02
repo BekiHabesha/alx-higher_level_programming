@@ -17,6 +17,8 @@
 * **Advanced_Tasks:** <ins>**Task 14**</ins>
 
 ###   
+<font color="red">This text is red!</font>
+<p style="color:blue">Make this text blue.</p>
                      
 ![Alx.]( https://i.ibb.co/ZV48Drd/Alx-next-generation.png)
 
