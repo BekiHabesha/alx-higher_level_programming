@@ -35,7 +35,7 @@
 
 ![Python_Data_Structures.]( https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/01/Python-Data-Structures.jpg)
 
-<h2> <ins>Function Prototypes:</ins>:heavy_check_mark::folder:</H2>
+<h2> <ins>Function Prototypes:</ins>:heavy_check_mark::folder_sign:</H2>
 
 | Task NO. | Title | File | Prototype |
 | :----: | :----:| :---- | :---- |
