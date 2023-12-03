@@ -6,6 +6,12 @@
 ## **GITHUB_REPOSITORY:** [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
 ##
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU" />
+  <img src="https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png" />
+</p>
+
 * **File_name:** <ins>**README.md file**</ins>
 * **Created:** <ins>**On December 1, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
