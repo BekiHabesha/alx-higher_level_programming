@@ -91,6 +91,10 @@
 
 <image align="center"> ![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
 
+<p align="center">
+  <img src="https://i.ibb.co/F3yxSVj/alx-do-better-edited.png" />
+</p>
+
 ###
 
 <H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
