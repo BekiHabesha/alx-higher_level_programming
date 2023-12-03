@@ -20,7 +20,7 @@
 <font color="red">This text is red!</font>
 <p style="color:blue">Make this text blue.</p>
                      
-![Alx. align="center"]( https://i.ibb.co/ZV48Drd/Alx-next-generation.png)
+<image align="center"> ![Alx]( https://i.ibb.co/ZV48Drd/Alx-next-generation.png)
 
 ##
 
@@ -89,7 +89,7 @@
 
 * At the end of this project, You are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qZrNhvUqi5zcqE4cMFGU6Q), **Without the help of Google:**
 
-![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
+<image align="center"> ![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
 
 ###
 
