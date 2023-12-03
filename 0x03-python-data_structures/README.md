@@ -60,7 +60,7 @@
 | 10 | **Only by 2** | [**10-divisible_by_2.py**](./10-divisible_by_2.py) | [**def divisible_by_2(my_list=[]):**](./10-divisible_by_2.py) |
 | 11 | **Delete at** | [**11-delete_at.py**](./11-delete_at.py) | [**def delete_at(my_list=[], idx=0):**](./11-delete_at.py) |
 | 12 | **Switch** | [**12-switch.py**](./12-switch.py) | [here](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
-| 13 | **Linked list palindrome** | [**13-is_palindrome.c**](./13-is_palindrome.c) | [**int is_palindrome(listint_t **head);**](./13-is_palindrome.c) |
+| 13 | **Linked list palindrome** | [**13-is_palindrome.c**](./13-is_palindrome.c) | [**int is_palindrome(listint_t** __**head);__](./13-is_palindrome.c) |
 |   |   |   |   |
 |  |   |   |  |
 |  | ADVANCED TASKS |  |  |
