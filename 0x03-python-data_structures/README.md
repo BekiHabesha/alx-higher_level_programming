@@ -28,10 +28,12 @@
 <h2 align="center"> <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </h2>
 
 ### **GITHUB_REPOSITORY:**
-<h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
+<h2 align="center"> [alx-higher_level_programming](./alx-higher_level_programming) </h2>
 
 ### **DIRECTORY:**
 <h2 align="center"> <ins>0x03-python-data_structures</ins> </h2>
+
+<h2 align="center"> [**0x03-python-data_structures**](./0x03-python-data_structures)</h2>
 
 ###
 
