@@ -35,6 +35,12 @@
 
 <h2 align="center"> [**0x03-python-data_structures**](./0x03-python-data_structures)</h2>
 
+### **GITHUB_REPOSITORY:**
+<h2 align="center"> [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master) </h2>
+
+### **DIRECTORY:**
+<h2 align="center"> [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)</h2>
+
 ###
 
 ![ff]( https://github.com/VigoKrumins/folder-icons/blob/master/windows/png/youtube.png)
