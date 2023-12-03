@@ -1,74 +1,80 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x03. Python - Data Structures: Lists, Tuples </ins> </H1>
 
-![Beki.]( https://i.ibb.co/gyCVkbJ/0x03-Python-Data-Structures-Lists-Tuples-ALX-Logo.png)
-
-## **GITHUB_REPOSITORY:** [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
-##
-
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU" />
-  <img src="https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png" />
+  <img src="https://i.ibb.co/gyCVkbJ/0x03-Python-Data-Structures-Lists-Tuples-ALX-Logo.png" />
 </p>
+
+##
 
 * **File_name:** <ins>**README.md file**</ins>
 * **Created:** <ins>**On December 1, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
 * **Project:** <ins>**0x03. Python - Data Structures: Lists, Tuples**</ins>
-* **GitHub repository:** <ins>**alx-higher_level_programming**</ins> [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
-* **Directory:** <ins>**0x03-python-data_structures**</ins>
+* **GitHub repository:** [**alx-higher_level_programming**](./alx-higher_level_programming)
+* **Directory:** [**0x03-python-data_structures**](./0x03-python-data_structures)
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** <ins>**15 Tasks (14-Mandatory & 1-Advanced)**</ins>
 * **Mandatory_Tasks:** <ins>**From Task 0 to 13**</ins>
 * **Advanced_Tasks:** <ins>**Task 14**</ins>
 
 ###   
-<font color="red">This text is red!</font>
-<p style="color:blue">Make this text blue.</p>
-                     
-<image align="center"> ![Alx]( https://i.ibb.co/ZV48Drd/Alx-next-generation.png)
-
-##
-
-### **PROJECT_TITLE:**
-<h2 align="center"> <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </h2>
-
-### **GITHUB_REPOSITORY:**
-<h2 align="center"> [alx-higher_level_programming](./alx-higher_level_programming) </h2>
-
-### **DIRECTORY:** 📂
-<h2 align="center"> <ins>0x03-python-data_structures</ins> </h2>
-
-<h2 align="center"> [**0x03-python-data_structures**](./0x03-python-data_structures)</h2>
-
-### **GITHUB_REPOSITORY:**📂
-<h2 align="center"> [**alx-higher_level_programming**](./https://github.com/BekiHabesha/alx-higher_level_programming/tree/master) </h2>
-
-### **DIRECTORY:**
-<h2 align="center"> [0x03-python-data_structures](./https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)</h2>
 
 <p align="center">
-  [0x03-python-data_structures](./https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
+  <img src="https://i.ibb.co/ZV48Drd/Alx-next-generation.png" />
 </p>
+                     
+##
+
+<H2> PROJECT_TITLE: <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </H2>
+
+## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
+
+## <ins>**DIRECTORY</ins>: 📂**   [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 
 ###
-```js
-             [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
-```
 
-![ff]( https://github.com/VigoKrumins/folder-icons/blob/master/windows/png/youtube.png)
-![Python_Data_Structures.]( https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/01/Python-Data-Structures.jpg)
+<p align="center">
+  <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/01/Python-Data-Structures.jpg" />
+</p>
 
+<H1> <ins>Function Prototypes:</ins> :floppy_disk:</H1>
+
+| Task NO. | Title | File | Prototype |
+| :----: | :----:| :---- | :---- |
+|   |   |   |   |
+|   |   |   |   |
+|   | MANDATORY TASKS |  |  |
+|   |   |   |   |
+|   |   |   |  |
+| 0 | **Print a list <br>of integers** | [**0-print_list_integer.py**](./0-print_list_integer.py) | [**def print_list_integer(my_list=[]):**](./0-print_list_integer.py) |
+| 1 | **Secure access to <br>an element in a list** | [**1-element_at.py**](./[1-element_at.py) | [**def element_at(my_list, idx):**](./1-element_at.py) |
+| 2 | **Replace element** | [**2-replace_in_list.py**](./2-replace_in_list.py) | [**def replace_in_list(my_list, idx, element):**](./2-replace_in_list.py) |
+| 3 | **Print a list of <br>integers... in reverse!** | [**3-print_reversed_list_integer.py**](./3-print_reversed_list_integer.py) | [**def print_reversed_list_integer(my_list=[]):**](./3-print_reversed_list_integer.py) |
+| 4 | **Replace in a copy** | [**4-new_in_list.py**](./4-new_in_list.py) | [**def new_in_list(my_list, idx, element):**](./4-new_in_list.py) |
+| 5 | **Can you C me now?** | [**5-no_c.py**](./5-no_c.py) | [**def no_c(my_string):**](./5-no_c.py) |
+| 6 | **Lists of lists = Matrix** | [**6-print_matrix_integer.py**](./6-print_matrix_integer.py) | [**def print_matrix_integer(matrix=[[]]):**](./6-print_matrix_integer.py) |
+| 7 | **Tuples addition** | [**7-add_tuple.py**](./7-add_tuple.py) | [**def add_tuple(tuple_a=(), tuple_b=()):**](./7-add_tuple.py) |
+| 8 | **More returns!** | [**8-multiple_returns.py**](./8-multiple_returns.py) | [**def multiple_returns(sentence):**](./8-multiple_returns.py) |
+| 9 | **Find the max** | [**9-max_integer.py**](./9-max_integer.py) | [**def max_integer(my_list=[]):**](./9-max_integer.py) |
+| 10 | **Only by 2** | [**10-divisible_by_2.py**](./10-divisible_by_2.py) | [**def divisible_by_2(my_list=[]):**](./10-divisible_by_2.py) |
+| 11 | **Delete at** | [**11-delete_at.py**](./11-delete_at.py) | [**def delete_at(my_list=[], idx=0):**](./11-delete_at.py) |
+| 12 | **Switch** | [**12-switch.py**](./12-switch.py) | [here](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
+| 13 | **Linked list palindrome** | [**13-is_palindrome.c**](./13-is_palindrome.c) | [**int is_palindrome(listint_t **head);**](./13-is_palindrome.c) |
+|   |   |   |   |
+|  |   |   |  |
+|  | ADVANCED TASKS |  |  |
 |  |   |   |  |
 |  |   |   |  |
-| 14 | CPython #0: Python lists | [100-print_python_list_info.c](./0x03-python-data_structures) | [void print_python_list_info(PyObject *p);](./100-print_python_list_info.c) |
+| 14 | **CPython #0: Python lists** | [**100-print_python_list_info.c**](./100-print_python_list_info.c) | [**void print_python_list_info(PyObject *p);**](./100-print_python_list_info.c) |
 |   |   |   |   |
 |   |   |   |   |
 
 ##
 
-![Python_Data_Structures.]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*dFTVCUWG5MM9xJ5LpnFh-g.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*dFTVCUWG5MM9xJ5LpnFh-g.png" />
+</p>
 
 <h1> <ins>Resources</ins> :floppy_disk:</H1>
 
@@ -76,16 +82,18 @@
 * [3.1.3. Lists](https://intranet.alxswe.com/rltoken/VarQbHxfmbnpGnaGp3Nb_A)
 * [Data structures](https://intranet.alxswe.com/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)(*until <ins>5.3. Tuples and Sequences</ins> included*)
 * [Learn to Program 6 : Lists](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
-  
-![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU) ![Python_Data_Structures.]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU) ![Python_Data_Structures.]( https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png)
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE6Cd9MDL3PD0awPxfDIK0gwEezTufqa1tw&usqp=CAU" />
+  <img src="https://i0.wp.com/net-informations.com/python/ds/img/data-structures.png" />
+</p>
 
 ###
 
-<H1><ins>Learning Objectives</ins>:floppy_disk: 📂</H1>
+<H1><ins>Learning Objectives</ins>:floppy_disk:</H1>
 
 * At the end of this project, You are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qZrNhvUqi5zcqE4cMFGU6Q), **Without the help of Google:**
-
-<image align="center"> ![My alx. ]( https://i.ibb.co/F3yxSVj/alx-do-better-edited.png)
 
 <p align="center">
   <img src="https://i.ibb.co/F3yxSVj/alx-do-better-edited.png" />
@@ -108,7 +116,9 @@
 * **What is <ins>sequence unpacking</ins>.**
 * **What is the <ins>del</ins> statement and how to use it.**
 
-![Python_Data_Structures.]( https://technicalmasterblog.files.wordpress.com/2019/03/screenshot-from-2019-03-12-16-03-55.png?w=768&h=373)
+<p align="center">
+  <img src="https://technicalmasterblog.files.wordpress.com/2019/03/screenshot-from-2019-03-12-16-03-55.png?w=768&h=373" />
+</p>
 
 ###
 
@@ -119,7 +129,9 @@
 * You are not allowed to publish any content of this project.
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-![Alx.]( https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png)
+<p align="center">
+  <img src="https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png" />
+</p>
 
 ##
 
@@ -136,7 +148,10 @@
 * All **your files** must be **executable**.
 * The length of your files will be tested using **wc**.
 
-![Python_programming_logo.]( https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg) ![python_script_logo.]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*2bI-bxMZbx-v47XJlhBF8g.png)
+<p align="center">
+  <img src="https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2bI-bxMZbx-v47XJlhBF8g.png" />
+</p>
 
 ##
 
@@ -153,22 +168,24 @@
 * Don’t forget to <ins>**push your header file</ins>**
 * All your <ins>**header files</ins>** should be <ins>**include guarded</ins>**
 
-![C_programming_logo.]( https://blog.stoneriverelearning.com/wp-content/uploads/2016/08/CBlog.png) ![C_script_logo.]( https://img.freepik.com/premium-photo/abstract-modern-tech-programming-code-screen-developer-c-programming-language-computer-script-technology-background-software_505353-434.jpg?w=996)
+<p align="center">
+  <img src="https://blog.stoneriverelearning.com/wp-content/uploads/2016/08/CBlog.png" />
+  <img src="https://img.freepik.com/premium-photo/abstract-modern-tech-programming-code-screen-developer-c-programming-language-computer-script-technology-background-software_505353-434.jpg?w=996" />
+</p>
 
 ##
 
-### **PROJECT_TITLE:**
-<h2 align="center"> <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </h2>
+<H2> PROJECT_TITLE: <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </H2>
 
-### **GITHUB_REPOSITORY:**
-<h2 align="center"> <ins>alx-higher_level_programming</ins> </h2>
+## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
 
-### **DIRECTORY:**
-<h2 align="center"> <ins>0x03-python-data_structures</ins> </h2>
+## <ins>**DIRECTORY</ins>: 📂**   [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 
 ###
 
-![BekaHabesha.]( https://i.ibb.co/y5wmQyd/Alx-enginn-Build-ur-future.png)
+<p align="center">
+  <img src="https://i.ibb.co/y5wmQyd/Alx-enginn-Build-ur-future.png" />
+</p>
 
 <H1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</ins>:floppy_disk:</H1>
 
@@ -176,7 +193,7 @@
 
 ## **No. 0. Print a list of integers** :heavy_check_mark:
 * **File:**
-  * [0-print_list_integer.py](./0x03-python-data_structures)
+  * [**0-print_list_integer.py**](./0-print_list_integer.py)
 ###
 * Write a **function** that <ins>**prints all integers of a list</ins>.**
   * <ins>**Prototype</ins>:** [def print_list_integer(my_list=[]):](./0-print_list_integer.py)
@@ -192,7 +209,7 @@
 
 ## **No. 1. Secure access to an element in a list**:heavy_check_mark:
 * **File:**
-  * [1-element_at.py](./0x03-python-data_structures)
+  * [**1-element_at.py**](./1-element_at.py)
 ###
 * Write a **function** that retrieves an <ins>**element from a list like in C</ins>.**
   * <ins>**Prototype</ins>:** [def element_at(my_list, idx):](./1-element_at.py)
@@ -207,7 +224,7 @@
 
 ## **No. 2. Replace element**:heavy_check_mark:
 * **File:**
-  * [2-replace_in_list.py](./0x03-python-data_structures)
+  * [**2-replace_in_list.py**](./2-replace_in_list.py)
 ###
 * Write a **function** that replaces an <ins>**element of a list at a specific position (like in C)</ins>.**
   * <ins>**Prototype</ins>:** [def replace_in_list(my_list, idx, element):](./2-replace_in_list.py)
@@ -222,7 +239,7 @@
 
 ## **No. 3. Print a list of integers... in reverse!** :heavy_check_mark:
 * **File:**
-  * [3-print_reversed_list_integer.py](./0x03-python-data_structures)
+  * [**3-print_reversed_list_integer.py**](./3-print_reversed_list_integer.py)
 ###
 * Write a **function** that <ins>**prints all integers of a list, in reverse order</ins>.**
   * <ins>**Prototype</ins>:** [def print_reversed_list_integer(my_list=[]):](./3-print_reversed_list_integer.py)
@@ -238,7 +255,7 @@
 
 ## **No. 4. Replace in a copy** :heavy_check_mark:
 * **File:**
-  * [4-new_in_list.py](./0x03-python-data_structures)
+  * [**4-new_in_list.py**](./4-new_in_list.py)
 ###
 * Write a **function** that replaces an <ins>**element in a list at a specific position</ins>** without modifying the <ins>**original list</ins>.** (like in C)
   * <ins>**Prototype</ins>:** [def new_in_list(my_list, idx, element):](./4-new_in_list.py)
@@ -253,7 +270,7 @@
 
 ## **No. 5. Can you C me now?** :heavy_check_mark:
 * **File:**
-  * [5-no_c.py](./0x03-python-data_structures)
+  * [**5-no_c.py**](./5-no_c.py)
 ###
 * Write a **function** that removes <ins>**all characters c and C from a string</ins>.**
   * <ins>**Prototype</ins>:** [def no_c(my_string):](./5-no_c.py)
@@ -267,7 +284,7 @@
 
 ## **No. 6. Lists of lists = Matrix** :heavy_check_mark:
 * **File:**
-  * [6-print_matrix_integer.py](./0x03-python-data_structures)
+  * [**6-print_matrix_integer.py**](./6-print_matrix_integer.py)
 ###
 * Write a **function** that prints a <ins>**matrix of integers</ins>.**
   * <ins>**Prototype</ins>:** [def print_matrix_integer(matrix=[[]]):](./6-print_matrix_integer.py)
@@ -283,7 +300,7 @@
 
 ## **No. 7. Tuples addition** :heavy_check_mark:
 * **File:**
-  * [7-add_tuple.py](./0x03-python-data_structures)
+  * [**7-add_tuple.py**](./7-add_tuple.py)
 ###
 * Write a **function** that <ins>**adds 2 tuples</ins>.**
   * <ins>**Prototype</ins>:** [def add_tuple(tuple_a=(), tuple_b=()):](./7-add_tuple.py)
@@ -299,7 +316,7 @@
 
 ## **No. 8. More returns!** :heavy_check_mark:
 * **File:**
-  * [8-multiple_returns.py](./0x03-python-data_structures)
+  * [**8-multiple_returns.py**](./8-multiple_returns.py)
 ###
 * Write a **function** that **<ins>returns a tuple</ins>** with the **<ins>length of a string</ins>** and **<ins>its first character</ins>.**
   * <ins>**Prototype</ins>:** [def multiple_returns(sentence):](./8-multiple_returns.py)
@@ -312,7 +329,7 @@
 
 ## **No. 9. Find the max** :heavy_check_mark:
 * **File:**
-  * [9-max_integer.py](./0x03-python-data_structures)
+  * [**9-max_integer.py**](./9-max_integer.py)
 ###
 * Write a **function** that **<ins>finds the biggest integer of a list</ins>.**
   * <ins>**Prototype</ins>:** [def max_integer(my_list=[]):](./9-max_integer.py)
@@ -327,7 +344,7 @@
 
 ## **No. 10. Only by 2** :heavy_check_mark:
 * **File:**
-  * [10-divisible_by_2.py](./0x03-python-data_structures)
+  * [**10-divisible_by_2.py**](./10-divisible_by_2.py)
 ###
 * Write a **function** that **<ins>finds all multiples of 2 in a list</ins>.**
   * <ins>**Prototype</ins>:** [def divisible_by_2(my_list=[]):](./10-divisible_by_2.py)
@@ -341,7 +358,7 @@
 
 ## **No. 11. Delete at** :heavy_check_mark:
 * **File:**
-  * [11-delete_at.py](./0x03-python-data_structures)
+  * [**11-delete_at.py**](./11-delete_at.py)
 ###
 * Write a **function** that <ins>**deletes the item at a specific position in a list</ins>.** (like in C)
   * <ins>**Prototype</ins>:** [def delete_at(my_list=[], idx=0):](./11-delete_at.py)
@@ -355,7 +372,7 @@
 
 ## **No. 12. Switch** :heavy_check_mark:
 * **File:**
-  * [12-switch.py](./0x03-python-data_structures)
+  * [**12-switch.py**](./12-switch.py)
 ###
 * Complete the **source code** in order to <ins>**switch value**</ins> of <ins>**a**</ins> and <ins>**b</ins>.**
   * You can **find the source code**  [here](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA)
@@ -368,7 +385,7 @@
 
 ## **No. 13. Linked list palindrome** :heavy_check_mark:
 * **File:**
-  * [13-is_palindrome.c](./0x03-python-data_structures)  ,  [lists.h](./0x03-python-data_structures)
+  * [**13-is_palindrome.c**](./13-is_palindrome.c)  ,  [**lists.h**](./lists.h)
 ###
 
 ### <ins>**Technical interview preparation:**</ins>
@@ -390,14 +407,16 @@
 
 ## **No. 14. CPython #0: Python lists** :heavy_check_mark:
 * **File:**
-  * [100-print_python_list_info.c](./0x03-python-data_structures)
+  * [**100-print_python_list_info.c**](./100-print_python_list_info.c)
 ###
 * **<ins>CPython**</ins> **is the reference implementation of the Python programming language.** Written in **<ins>C**</ins>, **<ins>CPython**</ins> is the **<ins>default**</ins> and **<ins>most widely used implementation of the language</ins>.**<br>
 
 * **Since we now know a <ins>bit of C</ins>,** we can **look at what is happening <ins>under the hood of Python</ins>.** Let’s have fun with <ins>**Python</ins>** and <ins>**C</ins>,** and **let’s look at what makes <ins>Python so easy to use</ins>.**
   * All your files will be <ins>**interpreted/compiled on Ubuntu 14.04 LTS</ins>.**
 
-![BekiHabesha.]( https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T183445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db45fb847d0cc3da930f93b91e009d4288ac4db409246d657ad142536de0d790)
+<p align="center">
+  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T183445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db45fb847d0cc3da930f93b91e009d4288ac4db409246d657ad142536de0d790" />
+</p>
 
 ###
 
