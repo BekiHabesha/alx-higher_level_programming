@@ -9,7 +9,7 @@
 * **Created:** <ins>**On December 1, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
 * **Project:** <ins>**0x03. Python - Data Structures: Lists, Tuples**</ins>
-* **GitHub repository:** <ins>**alx-higher_level_programming**</ins>
+* **GitHub repository:** <ins>**alx-higher_level_programming**</ins> [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
 * **Directory:** <ins>**0x03-python-data_structures**</ins>
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** <ins>**15 Tasks (14-Mandatory & 1-Advanced)**</ins>
