@@ -41,6 +41,10 @@
 ### **DIRECTORY:**
 <h2 align="center"> [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)</h2>
 
+<p align="center">
+  [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
+</p>
+
 ###
 
 ![ff]( https://github.com/VigoKrumins/folder-icons/blob/master/windows/png/youtube.png)
