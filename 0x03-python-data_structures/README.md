@@ -72,6 +72,30 @@
 
 ##
 
+<h1> <ins>Tests Folder</ins> 📂 :heavy_check_mark: 📂</H1>
+
+* [**tests**](./tests): <ins>**Folder of Project test files<ins>.**   
+  * We use them to test our functions. 
+  * We use The test main.c files at compilation.
+
+* File under [**tests**](./tests) Folders 📂 are 
+  * [**0-main.py**](./tests/0-main.py)
+  * [**1-main.py**](./tests/1-main.py)
+  * [**2-main.py**](./tests/2-main.py)
+  * [**3-main.py**](./tests/3-main.py)
+  * [**4-main.py**](./tests/4-main.py)
+  * [**5-main.py**](./tests/5-main.py)
+  * [**6-main.py**](./tests/6-main.py)
+  * [**7-main.py**](./tests/7-main.py)
+  * [**8-main.py**](./tests/8-main.py)
+  * [**9-main.py**](./tests/9-main.py)
+  * [**10-main.py**](./tests/10-main.py)
+  * [**11-main.py**](./tests/11-main.py)
+  * [**13-main.c**](./tests/13-main.c)
+  * [**100-test_lists.py**](./tests/100-test_lists.py)
+
+###
+
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*dFTVCUWG5MM9xJ5LpnFh-g.png" />
 </p>
@@ -415,7 +439,7 @@
   * All your files will be <ins>**interpreted/compiled on Ubuntu 14.04 LTS</ins>.**
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T183445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db45fb847d0cc3da930f93b91e009d4288ac4db409246d657ad142536de0d790" />
+  <img src="https://i.ibb.co/dMnzSfk/14main.gif" />
 </p>
 
 ###
