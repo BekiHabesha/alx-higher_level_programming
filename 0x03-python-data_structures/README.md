@@ -10,7 +10,7 @@
 * **File_name:** <ins>**README.md file**</ins>
 * **Created:** <ins>**On December 1, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
-* **Project:** <ins>**0x03. Python - Data Structures: Lists, Tuples**</ins>
+* **Project:** [**0x03. Python - Data Structures: Lists, Tuples**](https://intranet.alxswe.com/projects/241#task-1132)
 * **GitHub repository:** [**alx-higher_level_programming**](./alx-higher_level_programming)
 * **Directory:** [**0x03-python-data_structures**](./0x03-python-data_structures)
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
@@ -26,7 +26,7 @@
                      
 ##
 
-<H2> PROJECT_TITLE: <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </H2>
+## <ins>**PROJECT_TITLE</ins>:**   [**0x03. Python - Data Structures: Lists, Tuples**](https://intranet.alxswe.com/projects/241#task-1132)
 
 ## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
 
@@ -59,7 +59,7 @@
 | 9 | **Find the max** | [**9-max_integer.py**](./9-max_integer.py) | [**def max_integer(my_list=[]):**](./9-max_integer.py) |
 | 10 | **Only by 2** | [**10-divisible_by_2.py**](./10-divisible_by_2.py) | [**def divisible_by_2(my_list=[]):**](./10-divisible_by_2.py) |
 | 11 | **Delete at** | [**11-delete_at.py**](./11-delete_at.py) | [**def delete_at(my_list=[], idx=0):**](./11-delete_at.py) |
-| 12 | **Switch** | [**12-switch.py**](./12-switch.py) | [here](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
+| 12 | **Switch** | [**12-switch.py**](./12-switch.py) | [**here**](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
 | 13 | **Linked list palindrome** | [**13-is_palindrome.c**](./13-is_palindrome.c) | [**int is_palindrome(listint_t** __**head);__](./13-is_palindrome.c) |
 |   |   |   |   |
 |  |   |   |  |
@@ -79,9 +79,9 @@
 <h1> <ins>Resources</ins> :floppy_disk:</H1>
 
 ### **Read or watch:** :heavy_check_mark:
-* [3.1.3. Lists](https://intranet.alxswe.com/rltoken/VarQbHxfmbnpGnaGp3Nb_A)
-* [Data structures](https://intranet.alxswe.com/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)(*until <ins>5.3. Tuples and Sequences</ins> included*)
-* [Learn to Program 6 : Lists](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
+* [**3.1.3. Lists**](https://intranet.alxswe.com/rltoken/VarQbHxfmbnpGnaGp3Nb_A)
+* [**Data structures**](https://intranet.alxswe.com/rltoken/2aa8Mp-V2eSieGeX3OX8yQ)(*until <ins>5.3. Tuples and Sequences</ins> included*)
+* [**Learn to Program 6 : Lists**](https://intranet.alxswe.com/rltoken/BX2_CuHj1sq4eYGiXbCYSg)
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7gAeo-roHQBnhvj5KMje_OaEgD6rqrh9XTWp_yUdwaYR-XOkSyazhueUl3vwJWmTsSo&usqp=CAU" />
@@ -93,7 +93,7 @@
 
 <H1><ins>Learning Objectives</ins>:floppy_disk:</H1>
 
-* At the end of this project, You are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qZrNhvUqi5zcqE4cMFGU6Q), **Without the help of Google:**
+* At the end of this project, You are expected to be able to [**explain to anyone**](https://intranet.alxswe.com/rltoken/qZrNhvUqi5zcqE4cMFGU6Q), **Without the help of Google:**
 
 <p align="center">
   <img src="https://i.ibb.co/F3yxSVj/alx-do-better-edited.png" />
@@ -175,7 +175,7 @@
 
 ##
 
-<H2> PROJECT_TITLE: <ins>0x03. Python - Data Structures: Lists, Tuples</ins> </H2>
+## <ins>**PROJECT_TITLE</ins>:**   [**0x03. Python - Data Structures: Lists, Tuples**](https://intranet.alxswe.com/projects/241#task-1132)
 
 ## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
 
