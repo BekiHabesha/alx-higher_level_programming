@@ -40,7 +40,7 @@
 
 <H1> <ins>Function Prototypes:</ins> :floppy_disk:</H1>
 
-| Task NO. | Title | <p align="center">File</p> | Prototype |
+| Task NO. | Title | <text align="center">File | <text align="center"> Prototype |
 | :----: | :----:| :---- | :---- |
 |   |   |   |   |
 |   |   |   |   |
