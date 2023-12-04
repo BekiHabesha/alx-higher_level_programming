@@ -11,8 +11,8 @@
 * **Created:** <ins>**On December 1, 2023**</ins>
 * **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
 * **Project:** [**0x03. Python - Data Structures: Lists, Tuples**](https://intranet.alxswe.com/projects/241#task-1132)
-* **GitHub repository:** [**alx-higher_level_programming**](./alx-higher_level_programming)
-* **Directory:** [**0x03-python-data_structures**](./0x03-python-data_structures)
+* **GitHub repository:** [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
+* **Directory:** [**0x03-python-data_structures**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** <ins>**15 Tasks (14-Mandatory & 1-Advanced)**</ins>
 * **Mandatory_Tasks:** <ins>**From Task 0 to 13**</ins>
@@ -30,7 +30,7 @@
 
 ## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-higher_level_programming**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master)
 
-## <ins>**DIRECTORY</ins>: 📂**   [0x03-python-data_structures](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
+## <ins>**DIRECTORY</ins>: 📂**   [**0x03-python-data_structures**](https://github.com/BekiHabesha/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 
 ###
 
