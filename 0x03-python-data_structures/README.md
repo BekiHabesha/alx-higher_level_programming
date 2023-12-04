@@ -40,33 +40,33 @@
 
 <H1> <ins>Function Prototypes:</ins> :floppy_disk:</H1>
 
-| Task NO. | Title | File | Prototype |
+| Task NO. | Title | <p align="center">File</p> | Prototype |
 | :----: | :----:| :---- | :---- |
 |   |   |   |   |
 |   |   |   |   |
-|   | MANDATORY TASKS |  |  |
+|   | **MANDATORY TASKS** |  |  |
 |   |   |   |   |
 |   |   |   |  |
-| 0 | **Print a list <br>of integers** | [**0-print_list_integer.py**](./0-print_list_integer.py) | [**def print_list_integer(my_list=[]):**](./0-print_list_integer.py) |
-| 1 | **Secure access to <br>an element in a list** | [**1-element_at.py**](./[1-element_at.py) | [**def element_at(my_list, idx):**](./1-element_at.py) |
-| 2 | **Replace element** | [**2-replace_in_list.py**](./2-replace_in_list.py) | [**def replace_in_list(my_list, idx, element):**](./2-replace_in_list.py) |
-| 3 | **Print a list of <br>integers... in reverse!** | [**3-print_reversed_list_integer.py**](./3-print_reversed_list_integer.py) | [**def print_reversed_list_integer(my_list=[]):**](./3-print_reversed_list_integer.py) |
-| 4 | **Replace in a copy** | [**4-new_in_list.py**](./4-new_in_list.py) | [**def new_in_list(my_list, idx, element):**](./4-new_in_list.py) |
-| 5 | **Can you C me now?** | [**5-no_c.py**](./5-no_c.py) | [**def no_c(my_string):**](./5-no_c.py) |
-| 6 | **Lists of lists = Matrix** | [**6-print_matrix_integer.py**](./6-print_matrix_integer.py) | [**def print_matrix_integer(matrix=[[]]):**](./6-print_matrix_integer.py) |
-| 7 | **Tuples addition** | [**7-add_tuple.py**](./7-add_tuple.py) | [**def add_tuple(tuple_a=(), tuple_b=()):**](./7-add_tuple.py) |
-| 8 | **More returns!** | [**8-multiple_returns.py**](./8-multiple_returns.py) | [**def multiple_returns(sentence):**](./8-multiple_returns.py) |
-| 9 | **Find the max** | [**9-max_integer.py**](./9-max_integer.py) | [**def max_integer(my_list=[]):**](./9-max_integer.py) |
-| 10 | **Only by 2** | [**10-divisible_by_2.py**](./10-divisible_by_2.py) | [**def divisible_by_2(my_list=[]):**](./10-divisible_by_2.py) |
-| 11 | **Delete at** | [**11-delete_at.py**](./11-delete_at.py) | [**def delete_at(my_list=[], idx=0):**](./11-delete_at.py) |
-| 12 | **Switch** | [**12-switch.py**](./12-switch.py) | [**here**](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
-| 13 | **Linked list palindrome** | [**13-is_palindrome.c**](./13-is_palindrome.c) | [**int is_palindrome(listint_t** __**head);__](./13-is_palindrome.c) |
+| **0** | **Print a list <br>of integers** | [**0-print_list_integer.py**](./0-print_list_integer.py) | [**def print_list_integer(my_list=[]):**](./0-print_list_integer.py) |
+| **1** | **Secure access to <br>an element in a list** | [**1-element_at.py**](./[1-element_at.py) | [**def element_at(my_list, idx):**](./1-element_at.py) |
+| **2** | **Replace element** | [**2-replace_in_list.py**](./2-replace_in_list.py) | [**def replace_in_list(my_list, idx, element):**](./2-replace_in_list.py) |
+| **3** | **Print a list of <br>integers... in reverse!** | [**3-print_reversed_list_integer.py**](./3-print_reversed_list_integer.py) | [**def print_reversed_list_integer(my_list=[]):**](./3-print_reversed_list_integer.py) |
+| **4** | **Replace in a copy** | [**4-new_in_list.py**](./4-new_in_list.py) | [**def new_in_list(my_list, idx, element):**](./4-new_in_list.py) |
+| **5** | **Can you C me now?** | [**5-no_c.py**](./5-no_c.py) | [**def no_c(my_string):**](./5-no_c.py) |
+| **6** | **Lists of lists = Matrix** | [**6-print_matrix_integer.py**](./6-print_matrix_integer.py) | [**def print_matrix_integer(matrix=[[]]):**](./6-print_matrix_integer.py) |
+| **7** | **Tuples addition** | [**7-add_tuple.py**](./7-add_tuple.py) | [**def add_tuple(tuple_a=(), tuple_b=()):**](./7-add_tuple.py) |
+| **8** | **More returns!** | [**8-multiple_returns.py**](./8-multiple_returns.py) | [**def multiple_returns(sentence):**](./8-multiple_returns.py) |
+| **9** | **Find the max** | [**9-max_integer.py**](./9-max_integer.py) | [**def max_integer(my_list=[]):**](./9-max_integer.py) |
+| **10** | **Only by 2** | [**10-divisible_by_2.py**](./10-divisible_by_2.py) | [**def divisible_by_2(my_list=[]):**](./10-divisible_by_2.py) |
+| **11** | **Delete at** | [**11-delete_at.py**](./11-delete_at.py) | [**def delete_at(my_list=[], idx=0):**](./11-delete_at.py) |
+| **12** | **Switch** | [**12-switch.py**](./12-switch.py) | [**here**](https://intranet.alxswe.com/rltoken/9kg8R2hfPSN5pClcVAeGlA) |
+| **13** | **Linked list palindrome** | [**13-is_palindrome.c**](./13-is_palindrome.c) | [**int is_palindrome(listint_t** __**head);__](./13-is_palindrome.c) |
 |   |   |   |   |
 |  |   |   |  |
-|  | ADVANCED TASKS |  |  |
+|  | **ADVANCED TASKS** |  |  |
 |  |   |   |  |
 |  |   |   |  |
-| 14 | **CPython #0: Python lists** | [**100-print_python_list_info.c**](./100-print_python_list_info.c) | [**void print_python_list_info(PyObject *p);**](./100-print_python_list_info.c) |
+| **14** | **CPython #0: Python lists** | [**100-print_python_list_info.c**](./100-print_python_list_info.c) | [**void print_python_list_info(PyObject *p);**](./100-print_python_list_info.c) |
 |   |   |   |   |
 |   |   |   |   |
 
