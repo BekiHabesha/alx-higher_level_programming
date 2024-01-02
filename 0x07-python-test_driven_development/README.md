@@ -586,6 +586,10 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
   * [**100-matrix_mul.py**](./100-matrix_mul.py)
   * [**tests/100-matrix_mul.txt**](./100-matrix_mul.py)
 ###
+$\mathcal{\color{red}{m_b}}$
+$\mathbb{\color{red}{m_a}}$
+$\mathscr{\color{red}{m_b}}$
+$\mathfrak{\color{red}{m_a}}$
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
   * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
   * <ins>***Prototype</ins>:*** [**def matrix_mul(m_a, m_b):**](./100-matrix_mul.py)
