@@ -589,8 +589,8 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 
 ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$
 
-$\mathcal{\color{red}{m _ b}}$
-$\mathbb{\color{red}{m_a}}$
+$\mathcal{\color{red}{m(_)b}}$
+$\mathbb{\color{red}{m(_)a}}$
 $\mathscr{\color{red}{m \ _ \ b}}$
 $\mathfrak{\color{red}{m\_\a}}$
 $\mathfrak{\color{red}{m_}}$$\mathfrak{\color{red}{a}}$
