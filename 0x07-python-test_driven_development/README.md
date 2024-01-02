@@ -589,7 +589,7 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
   * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
   * <ins>***Prototype</ins>:*** [**def matrix_mul(m_a, m_b):**](./100-matrix_mul.py)
-  * ${{\color{red}{\textsf{ m_a\ \}}}}\$ and ${{\color{red}{\textsf{ m_b\ \}}}}\$ must be validated with these requirements in this order.
+  * ${{\color{red}{\textsf{ m\ _\ a\ \}}}}\$ and ${{\color{red}{\textsf{ m_b\ \}}}}\$ must be validated with these requirements in this order.
   * ${{\color{red}{\textsf{ m_a\ \}}}}\$ and ${{\color{red}{\textsf{ m_b\ \}}}}\$ must be va list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>:
     * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ or ${{\color{red}{\textsf{ m_b\ \}}}}\$ is **not a list:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a must be a list\ \}}}}\$ or ${{\color{red}{\textsf{ m_b must be a list\ \}}}}\$
     * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ or ${{\color{red}{\textsf{ m_b\ \}}}}\$ is **not a list of lists:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a must be a list of lists\ \}}}}\$ or ${{\color{red}{\textsf{ m_b must be a list of lists\ \}}}}\$ .
