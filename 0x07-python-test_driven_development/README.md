@@ -745,4 +745,12 @@ BekiHabesha@ubuntu:~/0x07-Pyhton Strings$
     * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a rectangle (all ‘rows’ should be of the same size):** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ each row of\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be of the same size\ \}}}}\$ or ${{\color{red}{\textsf{ each row of\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be of the same size\ \}}}}\$ .
   * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ **can’t be multiplied:** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ and\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ can't be multiplied\ \}}}}\$ .
 
+$\mathfrak{\color{red}{#}}$
+
+$\mathcal{\color{red}{#}}$
+
+$\mathbb{\color{red}{#}}$
+
+$\mathscr{\color{red}{#}}$
+
 #
