@@ -462,9 +462,9 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
   * [**5-text_indentation.py**](./5-text_indentation.py)
   * [**tests/5-text_indentation.txt**](./tests/5-text_indentation.py)
 ###
-* **Write a <ins>function**</ins> that <ins>**prints a text with 2 new lines after each of these characters: ${{\color{red}{\textsf{ .\ \}}}}\$, ${{\color{red}{\textsf{ ?\ \}}}}\$ and ${{\color{red}{\textsf{ :\ \}}}}\$**.**
+* **Write a <ins>function**</ins> that <ins>**prints a text with 2 new lines after each of these characters: ${{\color{red}{\textsf{ .\ \}}}}\$, ${{\color{red}{\textsf{ ?\ \}}}}\$ and ${{\color{red}{\textsf{ :\ \}}}}\$
   * <ins>***Prototype</ins>:*** [**def text_indentation(text):**](./5-text_indentation.py)
-  * ${{\color{red}{\textsf{ text\ \}}}}\$ must be a <ins>**string**</ins>, otherwise raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ text must be a string\ \}}}}\$ **.** 
+  * ${{\color{red}{\textsf{ text\ \}}}}\$ must be a <ins>**string**</ins>, otherwise raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ text must be a string\ \}}}}\$ 
   * There should be <ins>**no space**</ins> at the <ins>**beginning**</ins> or at the <ins>**end of each printed line</ins>.**
   * You are not allowed to <ins>**import any module</ins>.**
 
