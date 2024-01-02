@@ -590,6 +590,8 @@ $\mathcal{\color{red}{m_b}}$
 $\mathbb{\color{red}{m_a}}$
 $\mathscr{\color{red}{m_b}}$
 $\mathfrak{\color{red}{m_a}}$
+$\mathfrak{\color{red}{m}}$$\mathfrak{\color{red}{_}}$
+$\mathfrak{\color{red}{a}}$
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
   * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
   * <ins>***Prototype</ins>:*** [**def matrix_mul(m_a, m_b):**](./100-matrix_mul.py)
