@@ -588,14 +588,14 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ###
 $\mathcal{\color{red}{m_b}}$
 $\mathbb{\color{red}{m_a}}$
-$\mathscr{\color{red}{m_b}}$
-$\mathfrak{\color{red}{m_a}}$
+$\mathscr{\color{red}{m \ _ \ b}}$
+$\mathfrak{\color{red}{m\_\a}}$
 $\mathfrak{\color{red}{m}}$$\mathfrak{\color{red}{_}}$
 $\mathfrak{\color{red}{a}}$
 
-${{\color{red}{\textsf{ m\ \}}}}\$_ ${{\color{red}{\textsf{ a\ \}}}}\$
+${{\color{red}{\textsf{ m\ \}}}}\$ _ ${{\color{red}{\textsf{ a\ \}}}}\$
 
-${{\color{red}{\textsf{ m\ \}}}}\$ _${{\color{red}{\textsf{ a\ \}}}}\$
+${{\color{red}{\textsf{ m\ \}}}}\$ _ ${{\color{red}{\textsf{ a\ \}}}}\$
 
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
   * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
