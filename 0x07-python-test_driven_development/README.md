@@ -593,9 +593,9 @@ $\mathfrak{\color{red}{m_a}}$
 $\mathfrak{\color{red}{m}}$$\mathfrak{\color{red}{_}}$
 $\mathfrak{\color{red}{a}}$
 
-${{\color{red}{\textsf{ m\ \}}}}\$_${{\color{red}{\textsf{ a\ \}}}}\$
+${{\color{red}{\textsf{ m\ \}}}}\$_ ${{\color{red}{\textsf{ a\ \}}}}\$
 
-${{\color{red}{\textsf{ m\ \}}}}\$ _ ${{\color{red}{\textsf{ a\ \}}}}\$
+${{\color{red}{\textsf{ m\ \}}}}\$ _${{\color{red}{\textsf{ a\ \}}}}\$
 
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
   * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
