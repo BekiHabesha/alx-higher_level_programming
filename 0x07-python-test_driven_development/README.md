@@ -1,3 +1,5 @@
+vi README.md
+
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> <ins> 0x07. Python - Test-Driven Development</ins> </H1>
 
@@ -188,7 +190,7 @@
 * **How to find edge cases.**
 
 <p align="center">
-  <img src="https://realpython.com/cdn-cgi/image/width=640,format=auto/https://files.realpython.com/media/Testing-Your-Code-as-You-Go-with-doctest_Watermarked.0cc384332b1e.jpg" />
+  <img src="https://files.realpython.com/media/Intermediate-Advanced-PyTest-Features_Watermarked.43fb169e7121.jpg" />
 </p>
 
 ###
@@ -317,7 +319,7 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ## **No. 1. Divide a matrix**:heavy_check_mark:
 * File:
   * [**2-matrix_divided.py**](./2-matrix_divided.py)
-  * [**tests/2-matrix_divided.txt**](./2-matrix_divided.py)
+  * [**tests/2-matrix_divided.txt**](./tests/2-matrix_divided.py)
 ###
 * **Write a function that <ins>divides all elements of a matrix</ins>.**
   * <ins>***Prototype</ins>:*** [**def matrix_divided(matrix, div):**](./2-matrix_divided.py)
@@ -358,11 +360,11 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ## **No. 2. Say my name**:heavy_check_mark:
 * File:
   * [**3-say_my_name.py**](./3-say_my_name.py)
-  * [**tests/3-say_my_name.txt**](./3-say_my_name.py)
+  * [**tests/3-say_my_name.txt**](./tests/3-say_my_name.py)
 ###
-* **Write a <ins>function**</ins> that <ins>**prints</ins>** [**My name is <first name> <last name>**](./3-say_my_name.py) **.**
-  * <ins>***Prototype</ins>:*** [**def say_my_name(first_name, last_name=""):**](./3-say_my_name.py)
-  * ${{\color{red}{\textsf{ first_name\ \}}}}\$ and ${{\color{red}{\textsf{ last_name\ \}}}}\$ must be <ins>**strings**</ins> otherwise raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ first_name must be a string\ \}}}}\$ or ${{\color{red}{\textsf{ last_name must be a string\ \}}}}\$ .
+* **Write a <ins>function**</ins> that <ins>**prints</ins>** [**My name is < first name > < last name >**](./3-say_my_name.py) **.**
+  * <ins>***Prototype</ins>:*** [**def say_my_name(first_name, last_name="" ):**](./3-say_my_name.py)
+  * ${{\color{red}{\textsf{ first\ \}}}}\$[**_**](./3-say_my_name.py)${{\color{red}{\textsf{ name\ \}}}}\$ and ${{\color{red}{\textsf{ last\ \}}}}\$[**_**](./3-say_my_name.py)${{\color{red}{\textsf{ name\ \}}}}\$ must be <ins>**strings**</ins> otherwise raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ first\ \}}}}\$[**_**](./3-say_my_name.py)${{\color{red}{\textsf{ name\ \}}}}\$ ${{\color{red}{\textsf{ must be a string\ \}}}}\$ or ${{\color{red}{\textsf{ last\ \}}}}\$[**_**](./3-say_my_name.py)${{\color{red}{\textsf{ name\ \}}}}\$ ${{\color{red}{\textsf{ must be a string\ \}}}}\$ .
   * You are not allowed to <ins>**import any module**</ins>
 
 ```js
@@ -398,9 +400,9 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ## **No. 3. Print square**:heavy_check_mark:
 * File:
   * [**4-print_square.py**](./4-print_square.py)
-  * [**tests/4-print_square.txt**](./4-print_square.py)
+  * [**tests/4-print_square.txt**](./tests/4-print_square.py)
 ###
-* **Write a <ins>function**</ins> that <ins>**prints a square with the character**</ins> ${{\color{red}{\textsf{ #\ \}}}}\$ .
+* **Write a <ins>function**</ins> that <ins>**prints a square with the character**</ins> [**#**](./4-print_square.py).
   * <ins>***Prototype</ins>:*** [**def print_square(size):**](./4-print_square.py)
   * ${{\color{red}{\textsf{ size\ \}}}}\$ is the **size length of the square.**
   * ${{\color{red}{\textsf{ size\ \}}}}\$ must be an <ins>**integer**</ins>, otherwise raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ size must be an integer\ \}}}}\$ .
@@ -458,9 +460,9 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ## **No. 4. Text indentation**:heavy_check_mark:
 * File:
   * [**5-text_indentation.py**](./5-text_indentation.py)
-  * [**tests/5-text_indentation.txt**](./5-text_indentation.py)
+  * [**tests/5-text_indentation.txt**](./tests/5-text_indentation.py)
 ###
-* **Write a <ins>function**</ins> that <ins>**prints a text with 2 new lines after each of these characters: ${{\color{red}{\textsf{ .\ \}}}}\$ , ${{\color{red}{\textsf{ ?\ \}}}}\$ and ${{\color{red}{\textsf{ :\ \}}}}\$ **.**
+* **Write a <ins>function**</ins> that <ins>**prints a text with 2 new lines after each of these characters: ${{\color{red}{\textsf{ .\ \}}}}\$, ${{\color{red}{\textsf{ ?\ \}}}}\$ and ${{\color{red}{\textsf{ :\ \}}}}\$**.**
   * <ins>***Prototype</ins>:*** [**def text_indentation(text):**](./5-text_indentation.py)
   * ${{\color{red}{\textsf{ text\ \}}}}\$ must be a <ins>**string**</ins>, otherwise raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ text must be a string\ \}}}}\$ **.** 
   * There should be <ins>**no space**</ins> at the <ins>**beginning**</ins> or at the <ins>**end of each printed line</ins>.**
@@ -584,33 +586,19 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ## **No. 6. Matrix multiplication**:heavy_check_mark:
 * File:
   * [**100-matrix_mul.py**](./100-matrix_mul.py)
-  * [**tests/100-matrix_mul.txt**](./100-matrix_mul.py)
+  * [**tests/100-matrix_mul.txt**](./tests/100-matrix_mul.py)
 ###
-
-${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$
-
-$\mathcal{\color{red}{m(_)b}}$
-$\mathbb{\color{red}{m(_)a}}$
-$\mathscr{\color{red}{m \ _ \ b}}$
-$\mathfrak{\color{red}{m\_\a}}$
-$\mathfrak{\color{red}{m_}}$$\mathfrak{\color{red}{a}}$
-$\mathfrak{\color{red}{a}}$
-
-${{\color{red}{\textsf{ m\ \}}}}\$ _ ${{\color{red}{\textsf{ a\ \}}}}\$
-
-${{\color{red}{\textsf{ m\ \}}}}\$ _ ${{\color{red}{\textsf{ a\ \}}}}\$
-
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
   * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
   * <ins>***Prototype</ins>:*** [**def matrix_mul(m_a, m_b):**](./100-matrix_mul.py)
-  * ${{\color{red}{\textsf{ m\ _\ a\ \}}}}\$ and ${{\color{red}{\textsf{ m_b\ \}}}}\$ must be validated with these requirements in this order.
-  * ${{\color{red}{\textsf{ m_a\ \}}}}\$ and ${{\color{red}{\textsf{ m_b\ \}}}}\$ must be va list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>:
-    * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ or ${{\color{red}{\textsf{ m_b\ \}}}}\$ is **not a list:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a must be a list\ \}}}}\$ or ${{\color{red}{\textsf{ m_b must be a list\ \}}}}\$
-    * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ or ${{\color{red}{\textsf{ m_b\ \}}}}\$ is **not a list of lists:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a must be a list of lists\ \}}}}\$ or ${{\color{red}{\textsf{ m_b must be a list of lists\ \}}}}\$ .
-    * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ or ${{\color{red}{\textsf{ m_b\ \}}}}\$ is **is empty (it means: = [] or = [[]]):** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a can't be empty\ \}}}}\$ or ${{\color{red}{\textsf{ m_b can't be empty\ \}}}}\$ .
-    * If <ins>**one element of those list of lists**</ins> is **not an integer or a float:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a should contain only integers or floats\ \}}}}\$ or ${{\color{red}{\textsf{ m_b should contain only integers or floats\ \}}}}\$
-    * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ or ${{\color{red}{\textsf{ m_b\ \}}}}\$ is **not a rectangle (all ‘rows’ should be of the same size):** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ each row of m_a must be of the same size\ \}}}}\$ or ${{\color{red}{\textsf{ each row of m_b must be of the same size\ \}}}}\$ .
-  * If ${{\color{red}{\textsf{ m_a\ \}}}}\$ and ${{\color{red}{\textsf{ m_b\ \}}}}\$ **can’t be multiplied:** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m_a and m_b can't be multiplied\ \}}}}\$ .
+  * ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ must be validated with these requirements in this order.
+  * ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ must be an list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>:
+    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a list:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be a list\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be a list\ \}}}}\$
+    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a list of lists:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be a list of lists\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be a list of lists\ \}}}}\$ .
+    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **is empty (it means: = [] or = [[]]):** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ can't be empty\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ can't be empty\ \}}}}\$ .
+    * If <ins>**one element of those list of lists**</ins> is **not an integer or a float:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ should contain only integers or floats\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ should contain only integers or floats\ \}}}}\$
+    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a rectangle (all ‘rows’ should be of the same size):** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ each row of\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be of the same size\ \}}}}\$ or ${{\color{red}{\textsf{ each row of\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be of the same size\ \}}}}\$ .
+  * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ **can’t be multiplied:** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ and\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ can't be multiplied\ \}}}}\$ .
   * You are not allowed to <ins>**import any module</ins>.**
 
 ```js
@@ -635,7 +623,7 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
 ## **No. 7. Lazy matrix multiplication**:heavy_check_mark:
 * File:
   * [**101-lazy_matrix_mul.py**](./101-lazy_matrix_mul.py)
-  * [**tests/101-lazy_matrix_mul.txt**](./101-lazy_matrix_mul.py)
+  * [**tests/101-lazy_matrix_mul.txt**](./tests/101-lazy_matrix_mul.py)
 ###
 * **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices**</ins> by using **the module** [Numpy](https://intranet.alxswe.com/rltoken/sXnBuOVSyhKEGt-biOyOWg)
 * <ins>**To install it</ins>:** ${{\color{red}{\textsf{ pip3 install numpy==1.15.0\ \}}}}\$ **.**
@@ -732,25 +720,5 @@ BekiHabesha@ubuntu:~/0x07-Pyhton Strings$ python3 ./102-tests.py
   [ERROR] Invalid String Object
 BekiHabesha@ubuntu:~/0x07-Pyhton Strings$
 ```
-
-* **Write a <ins>function**</ins> that <ins>**multiplies 2 matrices</ins>:**
-  * <ins>***Read</ins>:*** [Matrix multiplication - only Matrix product (two matrices)](https://intranet.alxswe.com/rltoken/Qw_rYR3lYYL5DHDH-iCWCA)
-  * <ins>***Prototype</ins>:*** [**def matrix_mul(m_a, m_b):**](./100-matrix_mul.py)
-  * ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ must be validated with these requirements in this order.
-  * ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ must be an list of lists of <ins>**integers**</ins> or <ins>**floats**</ins>:
-    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a list:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be a list\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be a list\ \}}}}\$
-    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a list of lists:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be a list of lists\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be a list of lists\ \}}}}\$ .
-    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **is empty (it means: = [] or = [[]]):** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ can't be empty\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ can't be empty\ \}}}}\$ .
-    * If <ins>**one element of those list of lists**</ins> is **not an integer or a float:** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ should contain only integers or floats\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ should contain only integers or floats\ \}}}}\$
-    * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ or ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ is **not a rectangle (all ‘rows’ should be of the same size):** raise a ${{\color{red}{\textsf{ TypeError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ each row of\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ must be of the same size\ \}}}}\$ or ${{\color{red}{\textsf{ each row of\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ must be of the same size\ \}}}}\$ .
-  * If ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ and ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ **can’t be multiplied:** raise a ${{\color{red}{\textsf{ ValueError\ \}}}}\$ exception with the message ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$ ${{\color{red}{\textsf{ and\ \}}}}\$ ${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ b\ \}}}}\$ ${{\color{red}{\textsf{ can't be multiplied\ \}}}}\$ .
-
-$\mathfrak{\color{red}{#}}$
-
-$\mathcal{\color{red}{#}}$
-
-$\mathbb{\color{red}{#}}$
-
-$\mathscr{\color{red}{#}}$
 
 #
