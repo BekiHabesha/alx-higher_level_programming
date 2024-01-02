@@ -586,6 +586,9 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
   * [**100-matrix_mul.py**](./100-matrix_mul.py)
   * [**tests/100-matrix_mul.txt**](./100-matrix_mul.py)
 ###
+
+${{\color{red}{\textsf{ m\ \}}}}\$[**_**](./100-matrix_mul.py)${{\color{red}{\textsf{ a\ \}}}}\$
+
 $\mathcal{\color{red}{m _ b}}$
 $\mathbb{\color{red}{m_a}}$
 $\mathscr{\color{red}{m \ _ \ b}}$
