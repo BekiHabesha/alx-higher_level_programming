@@ -586,11 +586,11 @@ BekiHabesha@ubuntu:~/0x07-python-test_driven_development$
   * [**100-matrix_mul.py**](./100-matrix_mul.py)
   * [**tests/100-matrix_mul.txt**](./100-matrix_mul.py)
 ###
-$\mathcal{\color{red}{m_b}}$
+$\mathcal{\color{red}{m _ b}}$
 $\mathbb{\color{red}{m_a}}$
 $\mathscr{\color{red}{m \ _ \ b}}$
 $\mathfrak{\color{red}{m\_\a}}$
-$\mathfrak{\color{red}{m}}$$\mathfrak{\color{red}{_}}$
+$\mathfrak{\color{red}{m_}}$$\mathfrak{\color{red}{a}}$
 $\mathfrak{\color{red}{a}}$
 
 ${{\color{red}{\textsf{ m\ \}}}}\$ _ ${{\color{red}{\textsf{ a\ \}}}}\$
