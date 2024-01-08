@@ -290,7 +290,8 @@ guillaume@ubuntu:~/0x0A$
 
 ## **No. 1. My list**:heavy_check_mark:
 * **File:**
-  * [**1-my_list.py**](./[1-my_list.py)
+  * [**1-my_list.py**](./1-my_list.py)
+  * [**tests/1-my_list.txt**](./tests/1-my_list.txt)
 ###
 * Write a **class** <ins>**MyList</ins>** that inherits from <ins>**list</ins>:**
   * <ins>**Public instance method</ins>:** [**def print_sorted(self):**](./1-my_list.py) that **prints the list,** but **sorted (ascending sort)**
