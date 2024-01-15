@@ -1183,12 +1183,12 @@ guillaume@ubuntu:~/$ ./101-main.py
 ....
 ```
 <br>
-  * Uncommented line in **/etc/ssh/ssh_config** that said **# ForwardX11 no** and change ${{\color{red}{\textsf{ no\ \}}}}\$ to ${{\color{red}{\textsf{ yes\ \}}}}\$ **.**
-  * Then added line ${{\color{red}{\textsf{ config.ssh.forward_agent = true\ \}}}}\$ to my Vagrantfile in addition to ${{\color{red}{\textsf{ config.ssh.forward_x11 = true\ \}}}}\$ **.**
-  * Halted my vm with ${{\color{red}{\textsf{ vagrant halt\ \}}}}\$ and started it back up with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$ then ${{\color{red}{\textsf{ vagrant ssh\ \}}}}\$ **.**
-  * If you get an error that looks like **/usr/bin/xauth:** ${{\color{red}{\textsf{ timeout in locking authority file\ \}}}}\$ **/home/vagrant/.Xauthority**, then enter ${{\color{red}{\textsf{ rm .Xauthority\ \}}}}\$ **.** (you may have to ${{\color{red}{\textsf{ sudo\ \}}}}\$).
-  * Logout and restart the vm with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$.
-  * Test with ${{\color{red}{\textsf{ xeyes\ \}}}}\$. If Xquartz is installed on the Mac OS it should open in an Xquartz window.<br>
+* Uncommented line in **/etc/ssh/ssh_config** that said **# ForwardX11 no** and change ${{\color{red}{\textsf{ no\ \}}}}\$ to ${{\color{red}{\textsf{ yes\ \}}}}\$ **.**
+* Then added line ${{\color{red}{\textsf{ config.ssh.forward_agent = true\ \}}}}\$ to my Vagrantfile in addition to ${{\color{red}{\textsf{ config.ssh.forward_x11 = true\ \}}}}\$ **.**
+* Halted my vm with ${{\color{red}{\textsf{ vagrant halt\ \}}}}\$ and started it back up with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$ then ${{\color{red}{\textsf{ vagrant ssh\ \}}}}\$ **.**
+* If you get an error that looks like **/usr/bin/xauth:** ${{\color{red}{\textsf{ timeout in locking authority file\ \}}}}\$ **/home/vagrant/.Xauthority**, then enter ${{\color{red}{\textsf{ rm .Xauthority\ \}}}}\$ **.** (you may have to ${{\color{red}{\textsf{ sudo\ \}}}}\$).
+* Logout and restart the vm with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$.
+* Test with ${{\color{red}{\textsf{ xeyes\ \}}}}\$. If Xquartz is installed on the Mac OS it should open in an Xquartz window.<br>
 **It is your responsibility to request a review for this task from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
 
 ##
