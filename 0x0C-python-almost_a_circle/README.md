@@ -81,10 +81,6 @@
   * **Serialization/Deserialization**
   * **JSON**
 
-<p align="center">
-  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4" />
-</p>
-
 [<img src="https://i.ibb.co/19hBVK3/back-ground-for-0x0-C-Python-Almost-a-circle.png" >](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
 
 ###
@@ -140,6 +136,7 @@
 <p align="center">
   <img src="https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png" />
 </p>
+
 ##
 
 <H1>🔰 <ins>Requirements</ins> 🛡 :floppy_disk:</H1>
@@ -159,7 +156,6 @@
 * All your functions (inside and outside a class) should be documented: ([**python3 -c 'print(__import__("my_module").my_function.__doc__)'**](./tests/test_models/base.py)) and ([**python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'**](./tests/test_models/base.py))
 * **A** [***documentation***](https://realpython.com/documenting-python-code/) is not a simple word, **it’s a real sentence** explaining **what’s the purpose of the <ins>module</ins>, <ins>class</ins> or <ins>method</ins>** (the length of it will be verified)
 
-
 <p align="center">
   <img src="https://realpython.com/cdn-cgi/image/width=960,format=auto/https://files.realpython.com/media/Reading-and-Writing-Files-in-Python_Watermarked.0d394921fd90.jpg" />
 </p>
@@ -173,9 +169,9 @@
 * All your <ins>**test files**</ins> should be <ins>**inside a folder</ins>** ${{\color{red}{\textsf{ tests\ \}}}}\$
 * You have to use the [unittest module](https://intranet.alxswe.com/rltoken/soictNXCPE18ASL3INoeew)
 * All your <ins>**test files**</ins> should be **python files (extension: <ins>.py</ins>**
-* All your <ins>**test files**</ins> and <ins>**folders**</ins> should start with ${{\color{red}{\textsf{ tests_\ \}}}}\$
-* Your <ins>**file organization</ins>** in the <ins>**tests folder</ins>** should be the same as your project: ex: for [**models/base.py**](./models/base.py), <ins>**unit tests<ins>** must be in: [**tests/test_models/test_base.py**](./tests/test_models/test_base.py)
-* All your <ins>**tests</ins>** should be **executed by using this command: ${{\color{red}{\textsf{ python3 -m unittest discover tests\ \}}}}\$
+* All your <ins>**test files**</ins> and <ins>**folders**</ins> should start with **tests_**
+* Your <ins>**file organization</ins>** in the <ins>**tests folder</ins>** should be the same as your project: ex: for [**models/base.py**](./models/base.py), <ins>**unit tests</ins>** must be in: [**tests/test_models/test_base.py**](./tests/test_models/test_base.py)
+* All your <ins>**tests</ins>** should be **executed by using this command:** ${{\color{red}{\textsf{ python3 -m unittest discover tests\ \}}}}\$
 * You can also <ins>**test file</ins>** by file by **using this command:** ${{\color{red}{\textsf{ python3 -m unittest\ \}}}}\$ [**tests/test_models/test_base.py**](./tests/test_models/test_base.py)
 * We **strongly encourage** you to **work together on test cases**, so that **you don’t miss any edge case.**
 
@@ -296,16 +292,16 @@ guillaume@ubuntu:~/$
   * **In the file [models/rectangle.py](./models/rectangle.py)**
   * **Class** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ **inherits from** ${{\color{red}{\textsf{ Base\ \}}}}\$
   * **<ins>private class attribute</ins>, each with its own <ins>public getter</ins> and <ins>setter</ins>:**
-    * ${{\color{red}{\textsf{ __width\ \}}}}\$ **->** ${{\color{red}{\textsf{ width\ \}}}}\$
-    * ${{\color{red}{\textsf{ __height\ \}}}}\$ **->** ${{\color{red}{\textsf{ height\ \}}}}\$
-    * ${{\color{red}{\textsf{ __x\ \}}}}\$ **->** ${{\color{red}{\textsf{ x\ \}}}}\$
-    * ${{\color{red}{\textsf{ __y\ \}}}}\$ **->** ${{\color{red}{\textsf{ y\ \}}}}\$
-  * **<ins>class constructor</ins>:**  [**def __init__(self, width, height, x=0, y=0, id=None)**][**models/rectangle.py**](./models/rectangle.py) :
+    * **__width** **->** ${{\color{red}{\textsf{ width\ \}}}}\$
+    * **__height** **->** ${{\color{red}{\textsf{ height\ \}}}}\$
+    * **__x** **->** ${{\color{red}{\textsf{ x\ \}}}}\$
+    * **__y** **->** ${{\color{red}{\textsf{ y\ \}}}}\$
+  * **<ins>class constructor</ins>:**  [**def __init__(self, width, height, x=0, y=0, id=None)**](./models/rectangle.py) **:**
       * Call the **super class** with **<ins>id</ins> -** this **super call** with use the **<ins>logic</ins>** of the **__init__** of the **<ins>Base</ins> class.**
       * **Assign each argument ${{\color{red}{\textsf{ width\ \}}}}\$, ${{\color{red}{\textsf{ height\ \}}}}\$, ${{\color{red}{\textsf{ x\ \}}}}\$ and ${{\color{red}{\textsf{ y\ \}}}}\$ to the right attribute.**
 #####
 * **Why private attributes with getter/setter? Why not directly public attribute?** <br>
-Because we want to protect attributes of our class. With a setter, you are able to validate what a developer is trying to assign to a variable. So after, in your class you can “trust” these attributes.
+* Because we want to protect attributes of our class. With a setter, you are able to validate what a developer is trying to assign to a variable. So after, in your class you can “trust” these attributes.
 
 ```js
 guillaume@ubuntu:~/$ cat 1-main.py
@@ -418,7 +414,7 @@ guillaume@ubuntu:~/$
 * **File:**
   * [**models/rectangle.py**](./models/rectangle.py)
 ###
-* **Update the class** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ by **adding the public method [def display(self):](./models/rectangle.py)** prints in stdout the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ instance with the character <ins>**#</ins>** - you don’t need to handle ${{\color{red}{\textsf{ x\ \}}}}\$ and ${{\color{red}{\textsf{ y\ \}}}}\$ here.
+* **Update the class** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ by **adding the public method [def display(self):](./models/rectangle.py)** prints in stdout the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ instance with the character **#** - you don’t need to handle ${{\color{red}{\textsf{ x\ \}}}}\$ and ${{\color{red}{\textsf{ y\ \}}}}\$ here.
 
 ```js
 guillaume@ubuntu:~/$ cat 4-main.py
@@ -483,7 +479,7 @@ guillaume@ubuntu:~/$
 * **File:**
   * [**models/rectangle.py**](./models/rectangle.py)
 ###
-* **Update the class** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ by improving the public method [**def display(self):**](./models/rectangle.py) to print in stdout the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ instance with the character <ins>**#</ins>** - you don’t need to handle ${{\color{red}{\textsf{ x\ \}}}}\$ and ${{\color{red}{\textsf{ y\ \}}}}\$ here.
+* **Update the class** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ by improving the public method [**def display(self):**](./models/rectangle.py) to print in stdout the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ instance with the character **#** - you don’t need to handle ${{\color{red}{\textsf{ x\ \}}}}\$ and ${{\color{red}{\textsf{ y\ \}}}}\$ here.
 
 ```js
 guillaume@ubuntu:~/$ cat 6-main.py
@@ -618,10 +614,10 @@ guillaume@ubuntu:~/$
   * **In the file [models/square.py](./models/square.py)**
   * **Class** ${{\color{red}{\textsf{ Square\ \}}}}\$ **inherits from** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$
   * **<ins>class constructor</ins>:**  [**def __init__(self, size, x=0, y=0, id=None):**](./models/square.py) **:**
-      * Call the **super class** with ${{\color{red}{\textsf{ id\ \}}}}\$, ${{\color{red}{\textsf{ x\ \}}}}\$, ${{\color{red}{\textsf{ y\ \}}}}\$, ${{\color{red}{\textsf{ width\ \}}}}\$ and ${{\color{red}{\textsf{ height\ \}}}}\$ **-** this **super call** with use the **<ins>logic</ins>** of the [**__init__**](./models/__init__) of the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ **class.** The ${{\color{red}{\textsf{ width\ \}}}}\$ and ${{\color{red}{\textsf{ height\ \}}}}\$ must be **assigned to the value of** ${{\color{red}{\textsf{ size\ \}}}}\$ **.**
+      * Call the **super class** with ${{\color{red}{\textsf{ id\ \}}}}\$, ${{\color{red}{\textsf{ x\ \}}}}\$, ${{\color{red}{\textsf{ y\ \}}}}\$, ${{\color{red}{\textsf{ width\ \}}}}\$ and ${{\color{red}{\textsf{ height\ \}}}}\$ **-** this **super call** with use the **<ins>logic</ins>** of the **__init__** of the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ **class.** The ${{\color{red}{\textsf{ width\ \}}}}\$ and ${{\color{red}{\textsf{ height\ \}}}}\$ must be **assigned to the value of** ${{\color{red}{\textsf{ size\ \}}}}\$ **.**
       * **You must not create <ins>new attributes</ins> for this class, use <ins>all attributes of</ins>** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ **- <ins>As reminder</ins>: a Square is a Rectangle with the same width and height.**
       * **All** ${{\color{red}{\textsf{ width\ \}}}}\$, ${{\color{red}{\textsf{ height\ \}}}}\$, ${{\color{red}{\textsf{ x\ \}}}}\$ and ${{\color{red}{\textsf{ y\ \}}}}\$ **validation must inherit from** ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ **-** same behavior in case of wrong data.
-  * **The <ins>overloading</ins> __str__ method should return <ins>[ Square ] (< id >) < x > / < y > - < size ></ins> - in our case,** ${{\color{red}{\textsf{ width\ \}}}}\$ or ${{\color{red}{\textsf{ height\ \}}}}\$ **.** <br><br>
+  * **The <ins>overloading</ins> __str__ method should return <ins>[ Square ] (< id >) < x > / < y > - < size ></ins> - in our case,** ${{\color{red}{\textsf{ width\ \}}}}\$ or ${{\color{red}{\textsf{ height\ \}}}}\$ **.** <br>
 **As you know, a Square is a special Rectangle, so it makes sense this class Square inherits from Rectangle. Now you have a Square class who has the same attributes and same methods.**
 
 ```js
@@ -719,7 +715,7 @@ guillaume@ubuntu:~/$
 * **File:**
   * [**models/square.py**](./models/square.py)
 ###
-* ***Update the class** ${{\color{red}{\textsf{ Square\ \}}}}\$ by **adding** the **public method** [__def update(self, *args, **kwargs)__](./models/square.py) that assigns <ins>**attributes</ins>:**
+* **Update the class** ${{\color{red}{\textsf{ Square\ \}}}}\$ by **adding** the **public method** [__def update(self, *args, **kwargs)__](./models/square.py) that assigns <ins>**attributes</ins>:**
   * ${{\color{red}{\textsf{ *args\ \}}}}\$ is the list of <ins>**arguments</ins> - no-keyworded arguments.**
   * <ins>**1st argument</ins> should be the** ${{\color{red}{\textsf{ id\ \}}}}\$ **attribute.**
   * <ins>**2nd argument</ins> should be the** ${{\color{red}{\textsf{ size\ \}}}}\$ **attribute.**
@@ -871,7 +867,7 @@ guillaume@ubuntu:~/$
 * ${{\color{red}{\textsf{ JSON\ \}}}}\$ **is one of the standard formats for <ins>sharing data representation</ins>.**<br>
 * **Update the class** ${{\color{red}{\textsf{ Base\ \}}}}\$ by **adding the static method** [**def to_json_string(list_dictionaries):**](./models/base.py) that returns the <ins>**JSON string**</ins> representation of a [**list_dictionaries:**](./models/base.py)<br>
   * [**list_dictionaries**](./models/base.py) **is a list of dictionaries.**
-  * If [**list_dictionaries**](./models/base.py) is ${{\color{red}{\textsf{ None\ \}}}}\$ or **<ins>empty</ins>, return the string: <ins>"[]" </ins> .**
+  * If [**list_dictionaries**](./models/base.py) is ${{\color{red}{\textsf{ None\ \}}}}\$ or **<ins>empty</ins>, return the string: "[]".**
   * **Otherwise, return** the ${{\color{red}{\textsf{ JSON\ \}}}}\$ **<ins>string representation</ins> of** [**list_dictionaries**](./models/base.py) .
 
 ```js
@@ -1163,7 +1159,7 @@ guillaume@ubuntu:~/$
 * **Update the class** ${{\color{red}{\textsf{ Base\ \}}}}\$ by **adding** the **static method** [**def draw(list_rectangles, list_squares):**](./models/base.py) that **opens a window and draws all** the ${{\color{red}{\textsf{ Rectangle\ \}}}}\$ and ${{\color{red}{\textsf{ Square\ \}}}}\$ **:**<br>
   * **You must use the [Turtle graphics module](https://intranet.alxswe.com/rltoken/d16zMqYw0c7eQje2XgFvFg)**
   * **<ins>To install it</ins>:** ${{\color{red}{\textsf{ sudo apt-get install python3-tk\ \}}}}\$
-  * **To make the GUI available outside your vagrant machine, add this line in your Vagrantfile:** ${{\color{red}{\textsf{ config.ssh.forward_x11 = true\ \}}}}\$
+  * **To make the GUI available outside your vagrant machine, add this line in your Vagrantfile:** **config.ssh.forward_x11 = true**
   * **No constraints for color, shape etc… be creative!**<br>
 
 ```js
@@ -1187,12 +1183,12 @@ guillaume@ubuntu:~/$ ./101-main.py
 
 <br>
 
-* Uncommented line in **/etc/ssh/ssh_config** that said **# ForwardX11 no** and change ${{\color{red}{\textsf{ no\ \}}}}\$ to ${{\color{red}{\textsf{ yes\ \}}}}\$ **.**
-* Then added line ${{\color{red}{\textsf{ config.ssh.forward_agent = true\ \}}}}\$ to my Vagrantfile in addition to ${{\color{red}{\textsf{ config.ssh.forward_x11 = true\ \}}}}\$ **.**
-* Halted my vm with ${{\color{red}{\textsf{ vagrant halt\ \}}}}\$ and started it back up with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$ then ${{\color{red}{\textsf{ vagrant ssh\ \}}}}\$ **.**
-* If you get an error that looks like **/usr/bin/xauth:** ${{\color{red}{\textsf{ timeout in locking authority file\ \}}}}\$ **/home/vagrant/.Xauthority**, then enter ${{\color{red}{\textsf{ rm .Xauthority\ \}}}}\$ **.** (you may have to ${{\color{red}{\textsf{ sudo\ \}}}}\$).
-* Logout and restart the vm with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$.
-* Test with ${{\color{red}{\textsf{ xeyes\ \}}}}\$. If Xquartz is installed on the Mac OS it should open in an Xquartz window.<br>
-**It is your responsibility to request a review for this task from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
+  * Uncommented line in **/etc/ssh/ssh_config** that said **# ForwardX11 no** and change ${{\color{red}{\textsf{ no\ \}}}}\$ to ${{\color{red}{\textsf{ yes\ \}}}}\$ **.**
+  * Then added line **config.ssh.forward_agent = true** to my Vagrantfile in addition to **config.ssh.forward_x11 = true** **.**
+  * Halted my vm with ${{\color{red}{\textsf{ vagrant halt\ \}}}}\$ and started it back up with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$ then ${{\color{red}{\textsf{ vagrant ssh\ \}}}}\$ **.**
+  * If you get an error that looks like **/usr/bin/xauth:** ${{\color{red}{\textsf{ timeout in locking authority file\ \}}}}\$ **/home/vagrant/.Xauthority**, then enter ${{\color{red}{\textsf{ rm .Xauthority\ \}}}}\$ **.** (you may have to ${{\color{red}{\textsf{ sudo\ \}}}}\$).
+  * Logout and restart the vm with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$.
+  * Test with ${{\color{red}{\textsf{ xeyes\ \}}}}\$. If Xquartz is installed on the Mac OS it should open in an Xquartz window.<br>
+* **It is your responsibility to request a review for this task from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
 
 ##
