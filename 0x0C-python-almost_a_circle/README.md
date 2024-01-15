@@ -85,6 +85,8 @@
   <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4" />
 </p>
 
+[<img src="https://i.ibb.co/19hBVK3/back-ground-for-0x0-C-Python-Almost-a-circle.png" >](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
+
 ###
 
 <h1 align="center"> 📍 <ins>Resources</ins> 📌 :floppy_disk:</H1>
@@ -122,7 +124,7 @@
 * **How to <ins>handle named arguments in a function</ins>.**
 
 <p align="center">
-  <img src="  <img src="https://drstearns.github.io/tutorials/gojson/img/json-encoder.png" />
+  <img src="https://drstearns.github.io/tutorials/gojson/img/json-encoder.png" />
   <img src="https://pynative.com/wp-content/uploads/2020/01/python_json_parsing_and_decoding_using_load_and_loads.jpg" />
 </p>
 
@@ -1182,7 +1184,9 @@ if __name__ == "__main__":
 guillaume@ubuntu:~/$ ./101-main.py
 ....
 ```
+
 <br>
+
 * Uncommented line in **/etc/ssh/ssh_config** that said **# ForwardX11 no** and change ${{\color{red}{\textsf{ no\ \}}}}\$ to ${{\color{red}{\textsf{ yes\ \}}}}\$ **.**
 * Then added line ${{\color{red}{\textsf{ config.ssh.forward_agent = true\ \}}}}\$ to my Vagrantfile in addition to ${{\color{red}{\textsf{ config.ssh.forward_x11 = true\ \}}}}\$ **.**
 * Halted my vm with ${{\color{red}{\textsf{ vagrant halt\ \}}}}\$ and started it back up with ${{\color{red}{\textsf{ vagrant up --provision\ \}}}}\$ then ${{\color{red}{\textsf{ vagrant ssh\ \}}}}\$ **.**
