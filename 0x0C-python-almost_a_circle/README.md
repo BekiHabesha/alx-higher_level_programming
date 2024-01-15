@@ -239,14 +239,14 @@ guillaume@ubuntu:~/$
   * [**models/__init__.py**](./models/__init__.py)
 ###
 * **Write the first class** ${{\color{red}{\textsf{ Base\ \}}}}\$ **:**
-* **Create a folder named** [**models**](./models) with an empty file [**__init__.py**](./models/__init__.py) <ins>**inside - with this file</ins>,** the **folder will become a <ins>Python package</ins>.**
+* **Create a folder named** [**models**](./models) with an empty file **__init__.py** <ins>**inside - with this file</ins>,** the **folder will become a <ins>Python package</ins>.**
 ###
 * **Create a file named** [**models/base.py**](./models/base.py) **:**
   * **Class** ${{\color{red}{\textsf{ Base\ \}}}}\$ **:**
     * **<ins>private class attribute</ins>:**  **__nb_objects = 0**
-    * **<ins>class constructor</ins>:**  [**def __init__(self, id=None):**][**models/base.py**](./models/base.py) :
+    * **<ins>class constructor</ins>:**  [**def __init__(self, id=None):**](./models/base.py) :
       * **If <ins>id</ins> is not <ins>None</ins>,** assign the **<ins>public instance attribute id</ins> with this </ins>argument value</ins> -** you can **assume <ins>id</ins> is an </ins>integer</ins> and you don’t need to test the type of it.**
-      * **otherwise, <ins>increment</ins> __nb_objects,** and assign the **<ins>new value to the public instance attribute id</ins>.**
+      * **otherwise, increment  __nb_objects,** and assign the **<ins>new value to the public instance attribute id</ins>.**
 #####
 * **This class will be the <ins>“base”</ins> of all <ins>other classes in this project</ins>.** **The <ins>goal</ins> of it is <ins>to manage id attribute in all your future classes</ins> and <ins>to avoid duplicating the same code<ins>** (by extension, same bugs)
 
