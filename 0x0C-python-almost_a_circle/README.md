@@ -214,7 +214,7 @@
 * **File:**
   * [**tests/**](./tests/)
 ###
-* **All your** <ins>**files</ins>,** <ins>**classes</ins> and** **<ins>methods</ins> must be** **<ins>unit tested</ins> and be [**PEP 8**](https://peps.python.org/pep-0008/) **validated.**
+* **All your** <ins>**files</ins>,** <ins>**classes</ins> and** **<ins>methods</ins> must be** [**unit tested**](https://intranet.alxswe.com/rltoken/soictNXCPE18ASL3INoeew) and be [**PEP 8**](https://peps.python.org/pep-0008/) **validated.**
 
 ```js
 guillaume@ubuntu:~/$ python3 -m unittest discover tests
