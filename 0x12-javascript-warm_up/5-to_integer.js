@@ -1,14 +1,12 @@
 #!/usr/bin/node
 /* Author: Bereket Dereje */
 /*
-A script that prints My number: 
-  <first argument converted in integer>
-if the first argument can be converted to an integer:
-   If the argument can’t be converted to an integer, 
-      print “Not a number”
-   Must use console.log(...) to print all output
-   Not allowed to use var
-   Not allowed to use try/catch
+A script that prints My number: <first argument converted in integer>
+  if the first argument can be converted to an integer:
+      If the argument can’t be converted to an integer, print “Not a number”
+      Must use console.log(...) to print all output
+      Not allowed to use var
+      Not allowed to use try/catch
 */
 
 if (isNaN(process.argv[2]) || process.argv[2] === undefined) {
