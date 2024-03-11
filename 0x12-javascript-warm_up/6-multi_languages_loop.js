@@ -1,15 +1,11 @@
 #!/usr/bin/node
 /* Author: Bereket Dereje */
 /*
-A script that prints 3 lines:
-  (like 1-multi_languages.js)
+A script that prints 3 lines: (like 1-multi_languages.js)
   but by using an array of string and a loop
-      The first line: 
-                     “C is fun”
-      The second line:
-                     “Python is cool”
-      The third line:
-                     “JavaScript is amazing”
+      The first line: “C is fun”
+      The second line: “Python is cool”
+      The third line: “JavaScript is amazing”
       Must use console.log(...) to print all output
       Not allowed to use var
       Not allowed to use any if/else statement
